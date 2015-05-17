@@ -1,0 +1,16 @@
+name: Events
+version: 1.0
+main: me.Scrap.Event.Event
+author: Scrapy_
+description: Donezo
+ 
+commands:
+     host:
+         usage: /<command>
+         description: Main command
+     sdp:
+         description: Start DP
+     edp:
+         description: End DP    
+     joindp:
+         description: Join Command      
